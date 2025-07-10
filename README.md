@@ -2,7 +2,7 @@
 
 
 Hey 👋, I'm Raheleh
-Front End Web Developer from Esfahan, Iran.
+Front End Web Developer.
 
 
 
